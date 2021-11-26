@@ -1,0 +1,2 @@
+# yuketangHelper_ForXDU
+这个项目来自华南理工某位大佬写的脚本(在全站搜索yuketangHelper可得)，我在这里做了简单的修改，尽可能的降低使用门槛，供西电同学使用
