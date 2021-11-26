@@ -8,9 +8,9 @@ import json
 
 # 以下的csrftoken和sessionid需要改成自己登录后的cookie中对应的字段！！！！而且脚本需在登录雨课堂状态下使用
 # 登录上雨课堂，然后按F12-->选Application-->找到雨课堂的cookies，寻找csrftoken和sessionid字段，并复制到下面两行即可
-csrftoken = "4H4N7xqBaQ1IGFboK9wZ5BWgI9aBOImv" #需改成自己的
-sessionid = "wg1ibfi1nty3iw3wzp4kabv9de7yk764" #需改成自己的
-user_id = "47636771"
+csrftoken = "" #需改成自己的
+sessionid = "" #需改成自己的
+user_id = ""
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36',
